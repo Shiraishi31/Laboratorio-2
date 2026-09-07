@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\Lab_2_Entregable_1\bin\Debug\net10.0\Lab_2_Entregable_1.exe
+C:\Users\chris\source\repos\Lab_2_Entregable_1\bin\Debug\net10.0\Lab_2_Entregable_1.deps.json
+C:\Users\chris\source\repos\Lab_2_Entregable_1\bin\Debug\net10.0\Lab_2_Entregable_1.runtimeconfig.json
+C:\Users\chris\source\repos\Lab_2_Entregable_1\bin\Debug\net10.0\Lab_2_Entregable_1.dll
+C:\Users\chris\source\repos\Lab_2_Entregable_1\bin\Debug\net10.0\Lab_2_Entregable_1.pdb
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.AssemblyInfo.cs
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.dll
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\refint\Lab_2_Entregable_1.dll
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.pdb
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_Entregable_1.genruntimeconfig.cache
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\ref\Lab_2_Entregable_1.dll
+C:\Users\chris\source\repos\Lab_2_Entregable_1\obj\Debug\net10.0\Lab_2_En.E4F8D808.Up2Date
